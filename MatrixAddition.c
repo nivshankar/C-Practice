@@ -34,6 +34,8 @@ int main()
 }
 /*
 Output:
+ Enter elements for Array 1
+ Enter element for index no. [0][0]: 5
 Enter element for index no. [0][1]: 7
 Enter element for index no. [0][2]: 8
 Enter element for index no. [1][0]: 3
